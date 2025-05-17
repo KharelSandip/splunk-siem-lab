@@ -16,7 +16,7 @@
 5. [Detections](#detections)  
 6. [Dashboard](#dashboard)  
 7. [Screenshots](#screenshots)  
-8. [Credit](#credits--inspiration)  
+8. [Credits](#credits)  
 
 
 ---
