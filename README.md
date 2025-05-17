@@ -167,7 +167,7 @@ Capture and commit these images under `diagrams/`:
 
 ---
 
-##  Credit
+##  Credits
 
 - **Splunk Security Content** – official detection rules and dashboards:  
   https://github.com/splunk/security-content  
