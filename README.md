@@ -54,3 +54,23 @@ Follow these steps to validate your SIEM skills and build a portfolio piece.
           │  • Alerts: 3 custom correlation searches │
           │  • Dashboard: Lab_Overview               │
           └──────────────────────────────────────────┘
+```
+
+
+## Setup
+
+Follow these steps one by one.
+
+### 1. Install Splunk
+
+We need Splunk Enterprise to collect and search logs. Here’s how:
+
+1. **Download Splunk**  
+   - Open your web browser and go to [Splunk Download](https://www.splunk.com/en_us/download/splunk-enterprise.html).  
+   - Click **Linux .deb** and save the file to your `Downloads` folder.
+
+2. **Install Splunk**  
+   ```bash
+   cd ~/Downloads
+   sudo apt install ./splunk-*.deb
+   sudo /opt/splunk/bin/splunk start --accept-license --answer-yes --no-prompt
